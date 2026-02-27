@@ -1,0 +1,106 @@
+PID,Gender,Age,Born US,Education,EQ,AQ
+BF083,Female,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",121,16
+BF083,Female,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",125,17
+BF056,Male,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",147,18
+BF102,Male,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",117,13
+BF026,Male,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",125,11
+BF090,Male,18,No,"Some college credit, no degree",149,9
+BF092,Female,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",129,21
+BF068,Male,18,Yes,"Associate degree (for example: AA, AS)",122,19
+BF060,Female,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",134,19
+BF051,Female,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",123,19
+BF059,Female,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",132,6
+BF061,Female,19,No,"High school graduate, diploma or the equivalent (for example: GED)",149,12
+BF013,Non-binary/non-conforming,19,Yes,"Associate degree (for example: AA, AS)",146,13
+BF073,Female,19,Yes,"Bachelor's degree (for example: BA, AB, BS)",122,11
+BF074,Female,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",132,17
+BF085,Female,19,Yes,"Some college credit, no degree",137,13
+3038901413,Female,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",123,19
+BF044,Female,19,Yes,"Some college credit, no degree",103,25
+BF077,Female,19,Yes,"Some college credit, no degree",143,15
+BF077,Female,19,Yes,"Some college credit, no degree",155,16
+BF040,Female,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",155,7
+BF099,Female,19,Yes,"Associate degree (for example: AA, AS)",138,15
+BF080,Male,19,Yes,"Some college credit, no degree",148,11
+BF044,Female,19,Yes,"Some college credit, no degree",120,19
+BF015,Female,20,No,"High school graduate, diploma or the equivalent (for example: GED)",123,19
+BF027,Female,20,Yes,"Some college credit, no degree",125,21
+BF042,Female,20,Yes,"Some college credit, no degree",117,28
+BF067,Female,20,Yes,"Some college credit, no degree",129,24
+BF069,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",127,25
+BF076,Female,20,Yes,"Some college credit, no degree",134,15
+BF089,Female,20,Yes,"Associate degree (for example: AA, AS)",148,10
+BF098,Female,20,Yes,"Some college credit, no degree",119,27
+BF038,Male,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",131,16
+BF041,Male,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",92,15
+BF072,Male,20,No,"Bachelor's degree (for example: BA, AB, BS)",129,26
+BF101,Male,20,Yes,"Bachelor's degree (for example: BA, AB, BS)",137,20
+BF006,Male,20,Yes,"Some college credit, no degree",121,23
+BF020,Non-binary/non-conforming,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",115,20
+BF022,Female,20,Yes,"Some college credit, no degree",163,9
+BF032,Female,20,Yes,"Bachelor's degree (for example: BA, AB, BS)",122,21
+BF036,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",117,18
+BF045,Female,20,No,"Associate degree (for example: AA, AS)",108,19
+BF079,Female,20,Yes,"Some college credit, no degree",97,28
+BF081,Female,20,Yes,"Some college credit, no degree",126,16
+BF087,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",145,21
+BF088,Female,20,Yes,"Associate degree (for example: AA, AS)",127,24
+BF093,Female,20,Yes,"Some college credit, no degree",139,17
+BF087,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",142,21
+BF052,Male,20,Yes,"Associate degree (for example: AA, AS)",140,24
+BF009,Female,20,Yes,"Some college credit, no degree",121,19
+BF014,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",134,19
+BF064,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",134,18
+BF050,Female,20,No,"Associate degree (for example: AA, AS)",120,17
+BF054,Female,20,Yes,"Associate degree (for example: AA, AS)",138,19
+BF062,Female,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",138,22
+BF086,Female,20,Yes,"Some college credit, no degree",118,19
+BF100,Female,20,Yes,"Some college credit, no degree",129,17
+BF034,Male,20,Yes,"Some college credit, no degree",111,26
+BF031,Female,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",124,27
+BF039,Female,21,No,"High school graduate, diploma or the equivalent (for example: GED)",118,22
+BF078,Female,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",92,30
+BF023,Male,21,No,"Some college credit, no degree",108,30
+BF103,Female,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",92,26
+BF035,Female,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",122,16
+BF046,Female,21,Yes,"Associate degree (for example: AA, AS)",121,18
+BF048,Female,21,Yes,"Bachelor's degree (for example: BA, AB, BS)",151,19
+BF055,Female,21,Yes,"Associate degree (for example: AA, AS)",131,19
+BF082,Female,21,No,"Associate degree (for example: AA, AS)",107,30
+BF097,Female,21,No,"Associate degree (for example: AA, AS)",151,10
+BF091,Female,21,Yes,"Associate degree (for example: AA, AS)",145,15
+BF011,Male,21,Yes,"Some college credit, no degree",125,19
+BF033,Male,21,Yes,"Some college credit, no degree",142,19
+BF094,Male,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",139,15
+BF063,Female,21,Yes,"Some college credit, no degree",134,15
+BF065,Female,21,Yes,"Some college credit, no degree",129,16
+BF084,Male,21,Yes,"Some college credit, no degree",118,19
+BF084,Male,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",105,21
+BF019,Female,21,Yes,"Some college credit, no degree",127,18
+BF057,Male,22,No,"High school graduate, diploma or the equivalent (for example: GED)",129,19
+BF066,Female,22,Yes,"High school graduate, diploma or the equivalent (for example: GED)",122,18
+BF008,Male,22,Yes,"Some college credit, no degree",123,24
+BF025,Male,22,Yes,"High school graduate, diploma or the equivalent (for example: GED)",121,28
+BF030,Female,22,No,"Bachelor's degree (for example: BA, AB, BS)",134,25
+BF003,Female,22,Yes,"Associate degree (for example: AA, AS)",153,17
+BF012,Female,22,Yes,"Some college credit, no degree",130,12
+BF047,Female,22,Yes,"Some college credit, no degree",135,12
+BF058,Female,22,Yes,"Some college credit, no degree",137,10
+BF095,Male,22,Yes,"Some college credit, no degree",134,15
+BF007,Female,23,No,"Bachelor's degree (for example: BA, AB, BS)",139,29
+BF005,Male,23,Yes,"Some college credit, no degree",117,25
+BF049,Female,23,Yes,"Bachelor's degree (for example: BA, AB, BS)",131,20
+BF004,Male,23,Yes,"Bachelor's degree (for example: BA, AB, BS)",99,24
+BF037,Male,23,Yes,"Associate degree (for example: AA, AS)",130,9
+BF024,Male,24,No,"Associate degree (for example: AA, AS)",131,22
+BF075,Male,24,No,"Associate degree (for example: AA, AS)",130,10
+3034127113,Female,24,Yes,"Some college credit, no degree",114,20
+BF029,Female,24,No,"Bachelor's degree (for example: BA, AB, BS)",119,15
+BF017,Male,27,Yes,"Some college credit, no degree",136,18
+BF053,Male,28,Yes,"Associate degree (for example: AA, AS)",135,21
+BF028,Female,28,Yes,"Associate degree (for example: AA, AS)",143,18
+BF016,Female,32,No,"Some college credit, no degree",98,32
+BF070,Female,32,No,"Master's degree (for example: MA, MS, MEng, MEd, MSW, MBA)",136,21
+BF071,Male,37,Yes,"Some college credit, no degree",155,26
+BF010,Non-binary/non-conforming,37,Yes,"Associate degree (for example: AA, AS)",143,10
+BF104,Male,43,Yes,"Associate degree (for example: AA, AS)",145,22

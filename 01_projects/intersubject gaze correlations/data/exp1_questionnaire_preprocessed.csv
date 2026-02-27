@@ -1,0 +1,97 @@
+PID,Gender,Race,Age,Born US,Education,EQ,AQ
+PID001,Female,White / Caucasian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",144,17
+PID002,Non-binary/non-conforming,White / Caucasian,20,Yes,"Some college credit, no degree",126,29
+PID003,Female,Hispanic/ Latinx,20,Yes,"Some college credit, no degree",132,22
+PID004,Male,White / Caucasian,20,Yes,"Some college credit, no degree",123,19
+PID005,Female,Hispanic/ Latinx,21,Yes,"Associate degree (for example: AA, AS)",138,24
+PID006,Male,White / Caucasian,49,No,"Master's degree (for example: MA, MS, MEng, MEd, MSW, MBA)",153,11
+PID007,Female,Asian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",132,18
+PID008,Female,Asian,22,No,"Some college credit, no degree",117,27
+PID009,Male,White / Caucasian,19,Yes,"Some college credit, no degree",96,23
+PID010,Female,Hispanic/ Latinx,35,No,"Associate degree (for example: AA, AS)",146,17
+PID011,Female,Black / African American,21,No,"Some college credit, no degree",125,20
+PID013,Female,Asian,20,Yes,"Some college credit, no degree",131,10
+PID013,Male,Asian,19,Yes,"Some college credit, no degree",134,16
+PID015,Female,Hispanic/ Latinx,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",145,17
+PID016,Female,Prefer not to answer,21,Yes,"Some college credit, no degree",146,11
+PID017,Male,White / Caucasian,20,Yes,"Some college credit, no degree",149,21
+PID018,Female,White / Caucasian,22,Yes,"High school graduate, diploma or the equivalent (for example: GED)",113,20
+PID019,Female,Asian,20,No,"High school graduate, diploma or the equivalent (for example: GED)",121,17
+PID020,Female,White / Caucasian,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",108,31
+PID020,Female,Asian,21,No,"Some college credit, no degree",115,17
+PID022,Female,Prefer not to answer,23,No,"Some college credit, no degree",99,24
+PID023,Female,Asian,22,No,"Some college credit, no degree",119,22
+PID024,Female,MIXED ASIAN INDIAN AND WHITE,23,Yes,"Associate degree (for example: AA, AS)",135,15
+PID025,Female,Black / African American,20,Yes,"Some college credit, no degree",116,19
+PID026,Female,Hispanic/ Latinx,20,Yes,"Associate degree (for example: AA, AS)",123,17
+PID027,Male,Hispanic/ Latinx,20,No,"Some college credit, no degree",121,18
+PID028,Female,Pacific Islander,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",120,19
+PID029,Female,Hispanic/ Latinx,18,Yes,"Some college credit, no degree",132,18
+PID030,Male,Hispanic/ Latinx,18,No,"High school graduate, diploma or the equivalent (for example: GED)",136,11
+PID031,Female,White / Caucasian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",141,13
+PID032,Female,FILIPINA AND IRISH,19,Yes,"Some college credit, no degree",101,28
+PID033,Female,Asian,24,No,"Master's degree (for example: MA, MS, MEng, MEd, MSW, MBA)",149,22
+PID034,Female,Asian,22,No,"Bachelor's degree (for example: BA, AB, BS)",130,16
+PID035,Female,Hispanic/ Latinx,21,Yes,"Associate degree (for example: AA, AS)",123,27
+PID036,Female,White / Caucasian,21,Yes,"Some college credit, no degree",154,17
+PID037,Female,Asian,21,No,"Some college credit, no degree",123,19
+PID038,Male,Asian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",129,19
+PID039,Female,Asian,25,No,"Bachelor's degree (for example: BA, AB, BS)",135,15
+PID040,Female,White / Caucasian,21,Yes,"Some college credit, no degree",153,9
+PID041,Female,Asian,22,No,"Bachelor's degree (for example: BA, AB, BS)",105,28
+PID042,Male,White / Caucasian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",142,18
+PID043,Female,Hispanic/ Latinx,23,Yes,"Associate degree (for example: AA, AS)",143,23
+PID044,Male,White / Caucasian,36,Yes,"Associate degree (for example: AA, AS)",113,13
+PID045,Male,Mixed Chinese/White,23,Yes,"High school graduate, diploma or the equivalent (for example: GED)",118,12
+PID046,Female,Asian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",130,22
+PID047,Male,Asian,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",141,14
+PID048,Female,Hispanic/ Latinx,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",139,17
+PID049,Male,White / Caucasian,21,Yes,"Some college credit, no degree",129,11
+PID050,Female,Asian,20,No,"Some college credit, no degree",157,18
+PID051,Female,American Indian / Alaska Native,24,Yes,"Associate degree (for example: AA, AS)",139,16
+PID052,Female,Asian,22,No,"High school graduate, diploma or the equivalent (for example: GED)",113,24
+PID053,Female,Asian,22,Yes,"High school graduate, diploma or the equivalent (for example: GED)",128,18
+PID054,Female,Hispanic/ Latinx,20,Yes,"Associate degree (for example: AA, AS)",120,19
+PID055,Female,White / Caucasian,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",153,17
+PID056,Male,MIDDLE EASTERN,21,Yes,"Associate degree (for example: AA, AS)",126,18
+PID057,Female,Asian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",136,16
+PID058,Female,Hispanic/ Latinx,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",128,21
+PID059,Female,mixed,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",150,17
+PID060,Male,Asian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",91,20
+PID061,Female,Hispanic/ Latinx,22,Yes,"Associate degree (for example: AA, AS)",146,17
+PID062,Male,White / Caucasian,28,Yes,"Some college credit, no degree",131,21
+PID063,Female,White / Caucasian,20,Yes,"Some college credit, no degree",121,19
+PID064,Female,Asian,22,No,"High school graduate, diploma or the equivalent (for example: GED)",115,29
+PID065,Female,Middle Eastern ,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",140,14
+PID066,Female,White / Caucasian,19,Yes,"Some college credit, no degree",112,28
+PID067,Non-binary/non-conforming,Asian,18,Yes,"High school graduate, diploma or the equivalent (for example: GED)",120,19
+PID068,Female,White / Caucasian,18,Yes,"Some college credit, no degree",141,16
+PID069,Female,Asian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",128,18
+PID070,Male,Asian,20,No,"Some college credit, no degree",127,25
+PID071,Female,Hispanic/ Latinx,23,Yes,"Associate degree (for example: AA, AS)",124,15
+PID072,Female,MIXED BLACK AND WHITE,21,No,"High school graduate, diploma or the equivalent (for example: GED)",139,8
+PID073,Male,White / Caucasian,22,No,"Some college credit, no degree",134,13
+PID074,Female,Asian,22,Yes,"High school graduate, diploma or the equivalent (for example: GED)",122,24
+PID075,Male,White / Caucasian,25,Yes,"High school graduate, diploma or the equivalent (for example: GED)",123,20
+PID076,Female,Asian,19,No,"Some college credit, no degree",131,20
+PID077,Female,Asian,22,Yes,"Associate degree (for example: AA, AS)",124,21
+PID078,Female,Asian,22,No,"Bachelor's degree (for example: BA, AB, BS)",148,28
+PID079,Female,White / Caucasian,22,No,"High school graduate, diploma or the equivalent (for example: GED)",142,20
+PID080,Female,White / Caucasian,20,Yes,"Some college credit, no degree",144,16
+PID081,Female,Asian,18,Yes,"Some college credit, no degree",115,26
+PID082,Male,White / Caucasian,21,Yes,"Associate degree (for example: AA, AS)",141,18
+PID083,Female,Asian,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",125,18
+PID084,Female,Asian,22,No,"Bachelor's degree (for example: BA, AB, BS)",138,16
+PID085,Female,Hispanic/ Latinx,19,Yes,"Associate degree (for example: AA, AS)",143,7
+PID087,Male,Hispanic/ Latinx,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",117,17
+PID088,Female,Asian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",126,22
+PID089,Male,Asian Indian,20,No,"Some college credit, no degree",125,16
+PID090,Male,Asian,22,Yes,"Bachelor's degree (for example: BA, AB, BS)",118,16
+PID091,Male,Hispanic/ Latinx,21,Yes,"High school graduate, diploma or the equivalent (for example: GED)",122,11
+PID092,Female,Asian,20,No,"Some college credit, no degree",128,20
+PID093,Female,Asian,22,Yes,"Bachelor's degree (for example: BA, AB, BS)",121,14
+PID094,Female,Asian,21,No,"Bachelor's degree (for example: BA, AB, BS)",127,11
+PID095,Female,Asian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",124,19
+PID096,Male,Asian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",121,20
+PID097,Female,Asian,19,Yes,"High school graduate, diploma or the equivalent (for example: GED)",108,15
+PID098,Female,White / Caucasian,20,Yes,"High school graduate, diploma or the equivalent (for example: GED)",142,22
